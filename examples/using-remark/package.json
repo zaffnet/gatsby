@@ -36,7 +36,7 @@
     "rehype-react": "^3.0.2",
     "slash": "^1.0.0",
     "typeface-space-mono": "^0.0.22",
-    "typeface-spectral": "^0.0.29",
+    "typeface-spectral": "^0.0.72",
     "typography": "^0.16.17"
   },
   "license": "MIT",
